@@ -9,3 +9,4 @@ Entrevistado:
 Local:
 
 Perguntas:
+- O que vocês acham de offline-first e que tecnologias usariam?
